@@ -1,0 +1,2 @@
+# tabela da distribuidora
+ganesha
