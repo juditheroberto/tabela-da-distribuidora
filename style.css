@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+caption {
+    background-color: darkorange;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1,5em;
+}
+tbody > tr:nth-child(2n) {
+    background-color: rgba(243, 122, 8, 0.842);
+}
+table {
+    background-color: aqua;
+    width: 600px;
+    height: 50px;
+    border-collapse: collapse;
+}
+thead {
+    background-color: chartreuse;
+    font-weight: bold;
+    text-align: center;
+}
+td {
+    border: 1px solid black;
+    font-weight: bold;
+}
+.precos {
+    text-align:center;
+}
